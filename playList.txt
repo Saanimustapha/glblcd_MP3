@@ -1,0 +1,7 @@
+Thriller,Micheal jackson,pop,00:03:51
+In Da Club,50 cent,hip pop,00:02:59
+Love on top,Beyonce,R&B,00:04:02
+Happy,Pharrel williams,pop,00:03:37
+Uptown funk,Bruno mars,pop,00:04:12
+Hollywood's bleeding,Post malone,hip pop,00:3:17
+
